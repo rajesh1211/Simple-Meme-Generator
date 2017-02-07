@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meme Generator</string>
+    <string name="shoot_top_text">Enter Top</string>
+    <string name="shoot_bottom_text">Enter Bottom</string>
+    <string name="button_text">Generate</string>
+    <string name="meme_text_top">Meme Text Top</string>
+    <string name="meme_text_bottom">Meme Text Bottom</string>
+</resources>
